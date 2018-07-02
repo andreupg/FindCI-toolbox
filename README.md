@@ -52,7 +52,7 @@ The interface returns the vector `rej_IC`, containing the ICs tagged for rejecti
 * [Fieldtrip toolbox](http://www.fieldtriptoolbox.org/),
 
 ## Issues or questions? ##
-If you experience any issues or have any questions, please use the [issue tracking page](https://bitbucket.org/andreupg/ci_artifact-toolbox/issues?status=new&status=open).
+If you experience any issues or have any questions, please use the [issue tracking page](https://github.com/andreupg/findCI-toolbox/issues).
 
 ## License ##
 This toolbox was written by Andreu Paredes Gallardo and belongs to the Technical University of Denmark. The toolbox is distributed under the [GPL v3 licence](https://www.gnu.org/licenses/). A copy of the license is distributed with the toolbox.
